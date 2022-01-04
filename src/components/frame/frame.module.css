@@ -1,0 +1,18 @@
+.frame {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.count {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.button-spacer {
+    margin-left: 10px;
+}
